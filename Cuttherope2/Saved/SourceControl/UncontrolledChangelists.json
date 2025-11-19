@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Maps/MainGameLevel.umap",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Textures/M_Candy.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_CuttheropeGameMode.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_Candy.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Metal_Rope.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Bakground_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Orb.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/OmBot.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/OmBot_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Orb_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Bakground_Sprite_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_RopeAnchor.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/RopeSegment.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_RopeSegment.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Blueprints/BP_Rope.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Metal_Rope_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Anchor_Point.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/Anchor_Point_Sprite.uasset",
+				"C:/Users/Ab9to/Downloads/Cuttherope2/Content/Sprites/RopeSegment_Sprite.uasset"
+			]
+		}
+	]
+}
