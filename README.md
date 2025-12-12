@@ -62,7 +62,7 @@ Om Nom and it's variety sprites were generated with ChatGpt https://chatgpt.com/
 
 ### **Movement**
 - Controlled with **Left/Right keyboard inputs**
-- Speed = `MoveSpeed * SpeedMultiplier`
+- Speed = MoveSpeed * SpeedMultiplier
 - Bound to the playable screen width using Clamp nodes
 
 ### **Animations**
